@@ -1,3 +1,0 @@
-kuberun () {
-    echo $1
-}
