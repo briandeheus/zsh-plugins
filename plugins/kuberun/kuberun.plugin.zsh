@@ -1,0 +1,3 @@
+kuberun () {
+    echo $1
+}
